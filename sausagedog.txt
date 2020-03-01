@@ -2,5 +2,4 @@ The rainbow
 is
 purple
 
-  - Sausage Dog
-save
+  - Sausage Dog -
